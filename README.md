@@ -1,5 +1,7 @@
 # LoadingAnimation
 该项目为加载动画的示例：
+![Image](https://github.com/524429264/LoadingAnimation/blob/master/LoadingAnimation/LoadingAnimation/img-folder/loading.png)
+
 
 @property(nonatomic, readonly, getter=isAnimating) BOOL animating;
 
